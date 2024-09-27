@@ -1,2 +1,2 @@
-That's repo test.
+Repo test.
 See you around!
